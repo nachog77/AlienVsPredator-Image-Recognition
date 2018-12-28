@@ -1,6 +1,6 @@
 # Visual Classification of Alien/Predator images using Keras
 
-Contains iPython the next subdirectories:
+Contains the next subdirectories:
 
 /data/: where the file alien_vs_predator_thumbnails.zip must be unzip. This file is obtained from Kaggle in https://www.kaggle.com/pmigdal/alien-vs-predator-images#alien_vs_predator_thumbnails.zip
 /Notebook/: which stores iPython notebooks for data preprocessing, Model training and model evaluation.
