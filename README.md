@@ -8,14 +8,14 @@ Contains the next subdirectories:
 /models/: Where trained models are stored
 
    
-##Steps to follow:
+## Steps to follow:
 
 1) download https://www.kaggle.com/pmigdal/alien-vs-predator-images#alien_vs_predator_thumbnails.zip and unzip it in /data
 2) Execute Create_sets.ipynb notebook. This will create the trainig, test and validation subsets in /models
 3) Execute the Training_*.ipynb notebooks to train models
 4) Execute make_predictions.ipynb to evaluate models
 
-##Requirements:
+## Requirements:
 
 - Keras
 - Numpy
